@@ -2,14 +2,14 @@ aPackageInfo = [
 	:name = "The ReadFiles Package",
 	:description = "Our ReadFiles package using the Ring programming language",
 	:folder = "readfiles",
-	:developer = "",
-	:email = "",
+	:developer = "Mahmoud Fayed",
+	:email = "msfclipper@yahoo.com",
 	:license = "MIT License",
-	:version = "1.0.0",
+	:version = "1.0.1",
 	:ringversion = "1.18",
 	:versions = 	[
 		[
-			:version = "1.0.0",
+			:version = "1.0.1",
 			:branch = "master"
 		]
 	],
